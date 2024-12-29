@@ -7,7 +7,7 @@ Utilities (for development and end use)
 Entertainment (anagrams, monty hall, soduku, ...)
 Hierarchical demos (using a thesaurus or any hierarchical data set)
 
-- 📫 How to reach me ... BitsKit at HotBitsit.com
+- 📫 How to reach me ... BitsKit at HotBitsKit.com
 
 - ⚡ Fun fact: ... I've written over 100,000 lines of production code, some of which is still running.
 
